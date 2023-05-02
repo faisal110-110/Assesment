@@ -1,0 +1,47 @@
+.container3{
+                                        display: flex;
+                                      
+}
+.x3{
+        height: 400px;
+        width: 30%;
+        background-image: url(https://tse2.mm.bing.net/th?id=OIP.rjKGRdQNUoN16Z2MOlkaUwHaLH&pid=Api&P=0);   
+        background-size: 100% 100%;                            
+}
+.y3{
+                                        height: 400px;
+                                        width: 30%;
+                                        background: rgb(209,204,191);  
+                                        color: black;
+                                        text-align: center; 
+                                        padding-top: 8%;
+ }
+ .z3{
+                                        height: 400px;
+                                        width: 60%;
+                                        background-image: url(https://tse2.mm.bing.net/th?id=OIP.QgcTKjqNvKHbR4q74FxnkQHaEK&pid=Api&P=0);
+                                        background-size: 100% 100%;   
+                          
+ }
+ .lorem{
+                                       color: black; 
+ }
+ #service{
+                   height: 300px;
+                   background-color: black;
+                   text-align: center;
+                   width: 100%;                     
+ }
+ .service{
+                                        font-size: 190px;
+                                        color: transparent;
+                            
+                                        -webkit-text-stroke-width:1px ;
+                                        -webkit-text-stroke-color:grey ;
+                                        margin-top: 10px;
+ }
+ .service1{
+                                        font-size: 50px;
+                                        font-weight: bold;
+                                        margin-top:-220px;
+ }

@@ -1,0 +1,71 @@
+*{
+     box-sizing: border-box;                                   
+}
+.container{
+                                        position: relative;
+}
+.header{
+             background-color: black; 
+             display: flex;
+             flex-wrap: wrap; 
+
+}
+.x{
+             height: 900px;
+             background:rgba(255, 255, 255, 0.1);
+             width: 10%; 
+             padding: 20px;                          
+}
+.y{
+  height: 900px;
+  background:rgb(11,11,11);
+  width: 45%; 
+  text-align: center; 
+  padding-top: 250px;
+                         
+}
+.z{
+  height: 900px;
+  width: 45%; 
+  background: rgb(209,204,191);                          
+}
+ul{
+         margin-top: 100px;  
+         margin-left: -20px;                          
+}
+li{
+         padding: 20px;  
+         color: white;                             
+}
+
+.contain{
+   height: 400px;
+   width: 100%;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}
+.h1{                                    top: 500px;
+                                        position: absolute;
+                                        font-size: 90px;
+                                        color: transparent;
+                            
+                                        -webkit-text-stroke-width:1px ;
+                                        -webkit-text-stroke-color:grey ;
+}
+@keyframes images{
+
+  0%   {background-image:url(https://tse4.mm.bing.net/th?id=OIP.XFBv_UABH-1uEqWz2wiEeAHaE7&pid=Api&P=0);}
+  25%  {background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/barber-in-hat-cuts-the-client-39-s-hair-barbershop-e1677106210131.jpg);}
+  50%  {background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/barber-cuts-beard-to-a-brutal-guy-e1677106278185.jpg);}
+  100% {background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/man-getting-shaved-with-straight-edge-razor-by-hairdresser-at-barbershop-1-e1677105903335.jpg);}
+}
+.anim{
+  animation: images 8s infinite;
+  animation-duration: 20s;
+  transition: 4s;
+  background-size: 100% 100%;
+
+}
+
+

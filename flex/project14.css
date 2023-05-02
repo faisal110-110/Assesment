@@ -1,0 +1,72 @@
+.row , .row1,.row3{
+          display: flex;                              
+}
+
+
+.r1{
+                                        height: 100px;
+                                        width: 50%;
+                                        background-color: black;
+                                        color: white;
+                                        display: flex;
+                                       
+}
+.r2{
+                                        height: 100px;
+                                        width: 50%;
+                                        background-color: black;
+                                        color: white;
+                                        display: flex;
+}
+.r3{
+                                        height: 100px;
+                                        width: 50%;
+                                        background-color: black;
+                                        color: white;
+                                        display: flex;
+                                       
+}
+.r4{
+                                        height: 100px;
+                                        width: 50%;
+                                        background-color: black;
+                                        color: white;
+                                        display: flex;
+}
+.r5{
+                                        height: 100px;
+                                        width: 50%;
+                                        background-color: black;
+                                        color: white;
+                                        display: flex;
+                                       
+}
+.r6{
+                                        height: 100px;
+                                        width: 50%;
+                                        background-color: black;
+                                        color: white;
+                                        display: flex;
+}
+
+.border{
+              height: 10px;
+              width: 80%; 
+              border: transparent;
+              border-bottom: 2px dotted grey;
+              margin-left: 10%;  
+              margin-top: 20px;
+              
+                                     
+}
+.symbol{
+
+                   width: 10%; 
+                   margin-top: -10px;
+
+                                      
+}
+.simple{
+ 
+width: 10%;
+}

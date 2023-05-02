@@ -1,0 +1,29 @@
+.container7{
+                display: flex; 
+                background-color: black;                       
+}
+.x7{width: 2.5%; height: 500px;}
+.y7{
+        background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/male-hairdresser-at-hair-salon-or-barbershop-PZN5JWC.jpg);
+        background-size: 100% 100%;                                
+        width: 30%;
+        height: 500px;
+        position: relative;                                
+}
+.z7{width: 2.5%; height: 500px;}
+.f7{
+   background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/young-man-haidresser-looking-at-camera-in-barber-WWLZRPF.jpg);
+   background-size: 100% 100%;                                     
+   width: 30%;
+   height: 500px; 
+   position: relative;                                 
+}
+.n7{width: 2.5%; height: 500px;}
+.m7{
+ background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/team2.jpg);                                       
+ background-size: 100% 100%;
+ width: 30%;
+ height: 500px; 
+ position: relative;                                    
+}
+.l7{width: 2.5%; height: 500px;}

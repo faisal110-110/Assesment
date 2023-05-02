@@ -1,0 +1,33 @@
+.container4{
+                                        display: flex;
+                                        flex-wrap: wrap;
+}
+.x4{
+               height: 500px;
+               background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/barber-in-hat-cuts-the-client-39-s-hair-barbershop-e1677106210131.jpg);
+               width: 30%;  
+               background-size: 100% 100%;                       
+}
+.f4{
+               height: 500px;
+               background-color: black;
+               width: 3.33%;                         
+}
+.y4{
+         height: 500px;   
+         width: 30%; 
+         background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/barber-cuts-beard-to-a-brutal-guy-e1677106278185.jpg);
+         background-size: 100% 100%; 
+
+}
+.j4{
+               height: 500px;
+               width: 3.33%;
+               background-color: black;                         
+}
+.z4{
+         height: 500px;
+         width: 33%;  
+         background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/2023/02/man-getting-shaved-with-straight-edge-razor-by-hairdresser-at-barbershop-1-e1677105903335.jpg); 
+         background-size: 100% 100%;                            
+}

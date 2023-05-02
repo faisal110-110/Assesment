@@ -1,0 +1,59 @@
+@media screen and (max-width: 480px) {
+                                        .container h1{
+                                               display: none;                                 
+                                        }
+                                        .container3{flex-wrap: wrap;}
+                                       .x{width: 100%; height: 130px;}
+                                       .x ul{display:none;}
+                                       .y{width: 100%;}
+                                       .z{width: 100%;}
+                                       .x2{width: 100%; height: 50px;}
+                                       .y2{width: 100%;}
+                                       .z2{width: 100%; height: 50px;}
+                                       .f2{width: 100%;}
+                                       .section{display: none;}
+                                       .x3{width: 100%;}
+                                       .y3{width: 100%;}
+                                       .z3{width: 100%;}
+                                       #service .service {display: none;}
+                                       .service{display: none;}
+                                       .x4{width: 100%;}
+                                       .f4{width: 100%; height: 20px;}
+                                       .y4{width: 100%;}
+                                       .j4{width: 100%; height: 20px;}
+                                       .z4{width: 100%;}
+                                       .row , .row1,.row3{flex-wrap: wrap; width: 100%;}
+                                       .r1{flex-wrap: wrap; width: 100%;}
+                                       .r2{flex-wrap: wrap; width: 100%;}
+                                       .r3{flex-wrap: wrap; width: 100%;}
+                                       .r4{flex-wrap: wrap; width: 100%;}
+                                       .r5{flex-wrap: wrap; width: 100%;}
+                                       .r6{flex-wrap: wrap; width: 100%;}
+                                       .border{width: 60%;}
+                                       .container5{flex-wrap: wrap;}
+                                       .x5{width: 100%;}
+                                       .y5{width: 100%;}
+                                       .z5{width: 100%;}
+                                       .f5{width: 100%;}
+                                       .container6{display: none;}
+                                       .container7{flex-wrap: wrap;}
+                                       .x7{width: 100%; height: 10px; }
+                                       .y7{width: 100%;}
+                                       .z7{width: 100%; height: 10px; }
+                                       .f7{width: 100%;}
+                                       .n7{width: 100%; height: 10px; }
+                                       .m7{width: 100%;}
+                                       .l7{width: 100%; height: 10px; }
+                                       .container8 .block{flex-wrap: wrap;}
+                                       .b1{width: 100%;}
+                                       .b2{width: 100%; display: none;}
+                                       .b3{width: 100%; display: none;}
+                                       .container9{flex-wrap: wrap;}
+                                       .x9{width: 100%; height: 10px; }
+                                       .y9{width: 100%;}
+                                       .z9{width: 100%; height: 10px; }
+                                       .f9{width: 100%;}
+                                       .n9{width: 100%; height: 10px; }
+                                       .m9{width: 100%;}
+                                       .l9{width: 100%; height: 10px; }
+                                      }

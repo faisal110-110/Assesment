@@ -1,0 +1,25 @@
+.container5{
+                 display: flex;   
+                 background-color: black;                   
+}
+.x5{
+          background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/elementor/thumbs/barber-shaving-client-q27aknz3n34s5iyf4pvy7wv6ixmg6j2a4keisy4izs.jpg);
+          width: 25%; 
+          height: 400px;
+          background-size: 100% 100%;                             
+}
+.y5{
+  width: 25%;
+  height: 400px;
+}
+.z5{
+                                        width: 25%;
+                                        height: 400px;                            
+}
+.f5{
+
+      background-image: url(https://kit.baliniz.com/rabber/wp-content/uploads/sites/53/elementor/thumbs/barber-shaving-client-1-q27b2ztsws82jsby3n41uacrjfa4a1tunaddp6y5ns.jpg);
+      width: 25%;
+      height: 400px;
+      background-size: 100% 100%;                                  
+}

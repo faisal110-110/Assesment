@@ -1,0 +1,25 @@
+.container8{
+                   background-image: url(https://wallpapercave.com/wp/wp3067106.jpg);                     
+                  background-size: 100% 100%;
+                  background-attachment: fixed; 
+                  height: 600px;
+                  width: 100%;                     
+}
+.block{
+             height: auto;
+             width: auto;
+             background-color: rgb(209,204,191); 
+             display: flex;                        
+}
+.b1{
+       height: 300px;
+       width: 33.33%;                                 
+}
+.b2{
+ height: 300px;
+ width: 33.33%;                                 
+ }
+ .b3{
+ height: 300px;
+ width: 33.33%;                                 
+ }
